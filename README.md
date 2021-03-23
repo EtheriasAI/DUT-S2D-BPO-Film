@@ -1,3 +1,3 @@
-# DUT-S3D-BPO-Film
+# DUT-S2D-BPO-Film
 
 Realisation of film editing.
